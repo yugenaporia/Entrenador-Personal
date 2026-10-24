@@ -1,0 +1,10 @@
+target/
+out/
+.idea/
+*.iml
+.DS_Store
+# No publicar las soluciones
+/solucion/
+
+# Archivos generados por Maven
+/target/
